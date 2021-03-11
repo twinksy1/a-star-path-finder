@@ -7,5 +7,5 @@
 * Shortest path will be highlighted in white
 * Press 'c' to clear the path and resume clicking on nodes
 * If no path is possible, no path is highlighted and a message appears on the top of the window
-# GIF of program executing
+# GIF Of Program Executing
 ![GIF](https://cs.csub.edu/~jvillasenorr/Images/shortestpath.gif)
